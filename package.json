@@ -1,0 +1,19 @@
+{
+  "name": "cardr",
+  "version": "1.0.0",
+  "description": "Ecommerce Website With Amazing Prices",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costindumitrescu/ecommerce.git"
+  },
+  "author": "Costin Dumitrescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/costindumitrescu/ecommerce/issues"
+  },
+  "homepage": "https://github.com/costindumitrescu/ecommerce#readme"
+}
