@@ -4,7 +4,7 @@
   "description": "Ecommerce Website With Amazing Prices",
   "main": "server.js",
   "scripts": {
-    "test": "npm test"
+    "start": "node backend/server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/costindumitrescu/ecommerce/issues"
   },
-  "homepage": "https://github.com/costindumitrescu/ecommerce#readme"
+  "homepage": "https://github.com/costindumitrescu/ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
